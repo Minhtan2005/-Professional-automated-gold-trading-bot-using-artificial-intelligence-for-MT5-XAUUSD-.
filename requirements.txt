@@ -1,0 +1,7 @@
+MetaTrader5
+pandas
+numpy
+scikit-learn
+PyQt5
+pyqtgraph
+TA-Lib

@@ -1,60 +1,35 @@
+# 🦈 SHARK AI TITAN V41.5 (Standard Edition)
+AI Trading Bot for XAUUSD (Gold) on MT5.
 
-🦈 SHARK AI TITAN V41.5 - STANDARD EDITION
-Advanced AI-Powered Trading Solution for MetaTrader 5 (XAUUSD)
+## ⚠️ Yêu cầu hệ thống
+- Windows 10/11
+- Python 3.11
+- Phần mềm MetaTrader 5 (đã đăng nhập)
 
-📋 Installation & Setup Guide
-1. Prerequisites
-Operating System: Windows 10 or 11.
+## 🛠 Cách chạy Bot
+1. Tải thư mục này về máy.
+2. Mở CMD tại thư mục này và cài thư viện:
+   `pip install -r requirements.txt`
+3. Chạy bot bằng lệnh:
+   `python nhibee.py`
 
-Python Version: 3.11 (Recommended).
+# 🦈 SHARK AI TITAN V41.5 (Standard Edition)
+AI Trading Bot for XAUUSD (Gold) on MT5.
 
-Platform: MetaTrader 5 (MT5) terminal installed and logged into an account.
+## ⚠️ System Requirements
+- Windows 10/11
+- Python 3.11
+- MetaTrader 5 software (logged in)
 
-2. Setup Steps
-Clone/Download: Click the Code button and select Download ZIP or get it from the Releases section.
+## 🛠 How to Run the Bot
+1. Download this folder to your computer.
 
-Install Dependencies: Open Command Prompt (CMD) in the project folder and execute:
+2. Open CMD in this folder and install the library:
 
-Bash
-pip install -r requirements.txt
-MT5 Configuration:
+`pip install -r requirements.txt`
+3. Run the bot using the command:
 
-Open MT5.
+`python nhibee.py`
 
-Go to Tools -> Options -> Expert Advisors.
-
-Check the box: Allow Algo Trading.
-
-3. How to Run
-Execute the main script using the following command:
-
-Bash
-python nhibee.py
-Important: Ensure your MT5 terminal remains open while the bot is running.
-
-🛠 Changelog & Commit History
-v41.5 (Latest): * Integrated Random Forest AI engine for XAUUSD price action analysis.
-
-New Real-time UI/UX with candlestick data streaming.
-
-Secured with PyArmor obfuscation for intellectual property protection.
-
-Standard Edition: Fixed at 0.01 Lot for risk management.
-
-⚠️ Disclaimer & Risk Warning
-Testing: This Standard Edition is for educational and testing purposes only.
-
-Risk: Financial trading involves significant risk of loss. We are not responsible for any financial losses incurred through the use of this software.
-
-Copyright: The source code is obfuscated to protect proprietary logic. Any attempt to decompile or reverse-engineer the software is strictly prohibited.
-
-💎 UPGRADE TO PRO EDITION
-Unlock the full potential of AI Trading:
-
-✅ Custom Lot Size: Trade with your preferred volume.
-
-✅ Deep Learning Logic: Advanced filtering for high-probability signals.
-
-✅ Full Parameter Access: Customize SL, TP, and Trailing Stops.
-
-✅ Multi-Asset Support: BTC, Forex, and Indices.
+## 📞 Contact for PRO Upgrade
+The Standard version is locked with Lot 0.01. To unlock all features:
