@@ -1,4 +1,3 @@
-Đây là bản README.md hoàn toàn bằng tiếng Anh, được thiết kế theo phong cách chuyên nghiệp của các nhà phát triển phần mềm quốc tế. Bạn chỉ cần copy và dán đè lên nội dung cũ:
 
 🦈 SHARK AI TITAN V41.5 - STANDARD EDITION
 Advanced AI-Powered Trading Solution for MetaTrader 5 (XAUUSD)
